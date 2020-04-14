@@ -1,4 +1,4 @@
-# Breast-Cancer---EDA-PCA-Hyperparameter-tuning
+# Breast-Cancer-Analysis
 ## Introduction
 Breast cancer is one of the most commonly occuring cancers worldwide and according to global statistics, it reperesents a very high percentage of cancer-related deaths.
 In this repository, our goal is to build a machine learning model that can differentiate benign breast cancer lumps from the malignant ones
